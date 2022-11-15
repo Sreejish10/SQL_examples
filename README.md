@@ -1,5 +1,2 @@
-# hello-world
+This section contains the SQL examples covering different use cases and scnearios
 
-Hi All,
-
-this is to edit and see the changes
